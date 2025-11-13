@@ -8,7 +8,7 @@
 ---
 
 ## 🥗 Saladas
-- [salada do sertão](saladas/salada-do-sertão.md)  
+- [salada do sertão](saladas/salada-do-sertao.md)  
 
 ---
 
