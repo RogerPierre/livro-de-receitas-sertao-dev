@@ -3,7 +3,7 @@
 ---
 
 ## 🥩 Carnes
-- [Carne de Sol](carne/carneDeSol.md)  
+- [Carne de Sol](carnes/carneDeSol.md)  
 
 ---
 
