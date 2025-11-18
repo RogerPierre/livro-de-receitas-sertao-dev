@@ -1,4 +1,4 @@
-# Carne de Sol com Macaxeira
+# Carne de Sol com Macaxeira closed #1 #2
 
 ## Ingredientes
 - 500g de carne de sol dessalgada e cortada em tiras
@@ -12,3 +12,4 @@
 2. Frite a carne de sol na manteiga de garrafa até dourar.
 3. Adicione a cebola e refogue rapidamente.
 4. Sirva com a macaxeira e finalize com cheiro-verde.
+
