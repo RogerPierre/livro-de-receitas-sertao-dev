@@ -28,7 +28,7 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 
 ## 📁 Estrutura Atual do Repositório
 
-├── menu.md
+<pre> ```├── menu.md
 ├── CONTRIBUTING.md
 ├── carnes/
 │   └── carneDeSol-Acebolada.md
@@ -38,7 +38,7 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 │   └── caldo-de-macaxeira.md
 ├── sobremesas/
 │   └── doce-de-leite-caseiro.md
-└── Macarrão-Sertanejo.md
+└── Macarrão-Sertanejo.md ``` </pre>
 
 
 ---
