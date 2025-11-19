@@ -28,16 +28,16 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 
 ## 📁 Estrutura Atual do Repositório
 
-├── CONTRIBUTING.md
 ├── menu.md
+├── CONTRIBUTING.md
 ├── carnes/
-│ └── carneDeSol-Acebolada.md
+│   └── carneDeSol-Acebolada.md
 ├── saladas/
-│ └── salada-do-sertao.md
+│   └── salada-do-sertao.md
 ├── sopas/
-│ └── caldo-de-macaxeira.md
+│   └── caldo-de-macaxeira.md
 ├── sobremesas/
-│ └── doce-de-leite-caseiro.md
+│   └── doce-de-leite-caseiro.md
 └── Macarrão-Sertanejo.md
 
 
