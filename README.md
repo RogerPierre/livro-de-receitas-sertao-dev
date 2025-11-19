@@ -39,7 +39,8 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 │   └── caldo-de-macaxeira.md
 ├── sobremesas/
 │   └── doce-de-leite-caseiro.md
-└── Macarrão-Sertanejo.md
+└── massas/
+    └── Macarrão-Sertanejo.md
 ``` </pre>
 
 
