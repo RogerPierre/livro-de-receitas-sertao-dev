@@ -13,7 +13,7 @@
 ---
 
 ## 🍝 Massas
-- [Macarrão Sertanejo](massas/Macarraão-Sertanejo.md) 
+- [Macarrão Sertanejo](massas/Macarrão-Sertanejo.md) 
 
 ---
 
