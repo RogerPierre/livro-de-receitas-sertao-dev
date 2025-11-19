@@ -1,12 +1,18 @@
-## Ingredientes
-- 2 litros de leite integral
-- 2 xícaras de açúcar
-- 1 colher de sopa de manteiga
-- 1 pitada de bicarbonato de sódio (opcional, ajuda a não talhar e intensifica a cor)
+# 🍯 Doce de Leite Caseiro
 
-## Modo de Preparo
-1. Em uma panela grande, coloque o leite e o açúcar, mexendo até dissolver bem.
-2. Acrescente a manteiga e, se quiser, o bicarbonato.
-3. Cozinhe em fogo médio, mexendo sempre para não grudar no fundo.
-4. Quando começar a engrossar, reduza o fogo e continue mexendo até atingir o ponto desejado.
-5. Retire do fogo, deixe esfriar e armazene em um pote limpo e bem fechado.
+## ✨ Ingredientes
+- 1 litro de leite 🥛
+- 2 xícaras de açúcar
+- 1 colher de bicarbonato de sódio
+
+## 👨‍🍳 Modo de Preparo
+1. Coloque o leite e o açúcar em uma panela grande.
+2. Mexa em fogo baixo para não queimar.
+3. Adicione o bicarbonato e continue mexendo.
+4. Cozinhe até engrossar e atingir a cor desejada.
+5. Deixe esfriar e aproveite!
+
+---
+
+⬅️ [Voltar à Categoria](.)  
+🏠 [Voltar ao Menu Principal](../menu.md)
