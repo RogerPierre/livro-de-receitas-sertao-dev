@@ -35,14 +35,17 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 │   └── carneDeSol-Acebolada.md
 |   └── carne-de-panela-nordestina.md
 ├── saladas/
-│   └── salada-do-sertao.md
+│   └── Salada-do-sertao.md
+|   └── salada-de-Feijão-Verde-Nordestina.md
 ├── sopas/
 │   └── caldo-de-macaxeira.md
+|   └── Caldo-de-Macaxeira-com-Carne-de-+Sol.md
 ├── sobremesas/
 │   └── doce-de-leite-caseiro.md
-└── massas/
+|   └── Pudim-de-Rapadura-Sertanejo.md
+├── massas/
 |   └── Macarrão-Sertanejo.md
-|   └──lasanha-de-carne-de-sol.md
+|   └── lasanha-de-carne-de-sol.md
 ``` </pre>
 
 
