@@ -9,7 +9,8 @@
 ---
 
 ## 🥗 Saladas
-- [salada do sertão](saladas/salada-do-sertao.md)  
+- [salada do sertão](saladas/salada-do-sertao.md)
+- [salada de feijão verde](saladas/Salada-de-Feijão-Verde.md) 
 
 ---
 
@@ -20,12 +21,14 @@
 ---
 
 ## 🍲 Sopas
-- [caldo de macacheira](sopas/caldo-de-macacheira.md) 
+- [caldo de macacheira](sopas/caldo-de-macacheira.md)
+- [caldo de macacheira com carne de sol ](sopas/Caldo-de-Macaxeira-com-Carne-de-Sol.md) 
 
 ---
 
 ## 🍰 Sobremesas
-- [doce de leite caseiro](sobremesas/doce-de-leite-caseiro.md) 
+- [doce de leite caseiro](sobremesas/doce-de-leite-caseiro.md)
+- [Pudim de Rapadura Sertanejo](sobremesas/Pudim-de-Rapadura-Sertanejo.md)
 
 ---
 
