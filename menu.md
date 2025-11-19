@@ -3,7 +3,8 @@
 ---
 
 ## 🥩 Carnes
-- [Carne de Sol](carnes/carneDeSol.md)  
+- [Carne de Sol](carnes/carneDeSol.md)
+- [Carne de panela nordestina](carnes/carne-de-panela-nordestina.md)
 
 ---
 
@@ -13,7 +14,8 @@
 ---
 
 ## 🍝 Massas
-- [Macarrão Sertanejo](massas/Macarrão-Sertanejo.md) 
+- [Macarrão Sertanejo](massas/Macarrão-Sertanejo.md)
+- [Lasanha de carne de sol](massas/lasanha-de-carne-de-sol.md) 
 
 ---
 
