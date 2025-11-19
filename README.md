@@ -33,6 +33,7 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 ├── CONTRIBUTING.md
 ├── carnes/
 │   └── carneDeSol-Acebolada.md
+|   └── carne-de-panela-nordestina.md
 ├── saladas/
 │   └── salada-do-sertao.md
 ├── sopas/
@@ -40,8 +41,8 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 ├── sobremesas/
 │   └── doce-de-leite-caseiro.md
 └── massas/
-    └── Macarrão-Sertanejo.md
-    └──lasanha-de-carne-de-sol.md
+|   └── Macarrão-Sertanejo.md
+|    └──lasanha-de-carne-de-sol.md
 ``` </pre>
 
 
