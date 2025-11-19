@@ -68,5 +68,4 @@ Aplicar conceitos da Gerência de Configuração de Software na prática:
 
 ---
 
-[Voltar à Categoria](.)
 [Voltar ao Menu Principal](../menu.md)
