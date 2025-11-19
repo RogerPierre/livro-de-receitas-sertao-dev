@@ -1,17 +1,20 @@
-## Ingredientes
-- 1 xícara de feijão verde cozido
-- 1 xícara de milho verde cozido
-- 1 tomate grande picado
-- 1 cebola roxa fatiada
-- 1/2 pimentão verde picado
-- 150g de carne de sol desfiada e dessalgada
-- 100g de queijo coalho em cubos grelhados
-- Coentro ou cheiro-verde a gosto
-- Azeite, limão e sal para temperar
+# 🥗 Salada do Sertão
 
-## Modo de Preparo
-1. Misture o feijão verde, o milho, o tomate, o pimentão e a cebola roxa em uma tigela.
-2. Acrescente a carne de sol desfiada e já refogada.
-3. Adicione o queijo coalho grelhado e mexa delicadamente.
-4. Tempere com azeite, limão e sal.
-5. Finalize com coentro ou cheiro-verde e sirva fresca.
+## ✨ Ingredientes
+- 2 xícaras de feijão verde cozido
+- 1 tomate picado 🍅
+- 1 cebola roxa em tiras 🧅
+- 100g de queijo coalho em cubos 🧀
+- Coentro a gosto 🌿
+- Azeite
+- Sal e limão 🍋
+
+## 👨‍🍳 Modo de Preparo
+1. Misture todos os ingredientes em uma tigela.
+2. Tempere com azeite, sal e limão.
+3. Finalize com queijo coalho e coentro.
+
+---
+
+⬅️ [Voltar à Categoria](.)  
+🏠 [Voltar ao Menu Principal](../menu.md)
