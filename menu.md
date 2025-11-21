@@ -5,7 +5,7 @@
 ## 🥩 Carnes
 - [Carne de Sol](carnes/carneDeSol.md)
 - [Carne de panela nordestina](carnes/carne-de-panela-nordestina.md)
-
+- [Escondidinho de carne de sol](carnes/escondidinho-de-carneDeSol.md)
 ---
 
 ## 🥗 Saladas
