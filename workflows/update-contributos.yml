@@ -1,0 +1,63 @@
+name: Update Contributors Table
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0' # opcional: executa semanalmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch contributors from GitHub API and build markdown
+        env:
+          REPO: ${{ github.repository }} # owner/repo
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          API="https://api.github.com/repos/${REPO}/contributors?per_page=100"
+          page=1
+          echo "Fetching contributors..."
+          contributors_json="[]"
+          while :; do
+            resp=$(curl -s -H "Authorization: token ${GITHUB_TOKEN}" "${API}&page=${page}")
+            count=$(echo "$resp" | jq 'length')
+            if [ "$count" -eq 0 ]; then
+              break
+            fi
+            contributors_json=$(echo "$contributors_json" "$resp" | jq -s 'add')
+            page=$((page+1))
+          done
+
+          # build markdown table rows (4 col grid)
+          md="<!-- CONTRIBUTORS_START -->\n\n| Contributors |\n|---|\n|"
+          # you can format grid differently; here a simple single-column list with avatar + link
+          echo "$contributors_json" | jq -r '.[] | "- [![](\(.avatar_url)&s=64) ](\(.html_url))  [\(.login)](\(.html_url))"' | sed 's/$/  \n/' >> /tmp/rows.md
+
+          echo -e "$md" > /tmp/new_contribs.md
+          cat /tmp/rows.md >> /tmp/new_contribs.md
+          echo -e "\n<!-- CONTRIBUTORS_END -->" >> /tmp/new_contribs.md
+
+          # replace section in README.md between markers (or append if não existir)
+          if grep -q "<!-- CONTRIBUTORS_START -->" README.md; then
+            perl -0777 -pe 's/<!-- CONTRIBUTORS_START -->.*?<!-- CONTRIBUTORS_END -->/`cat \/tmp\/new_contribs.md`/es' README.md > /tmp/README.new
+            mv /tmp/README.new README.md
+          else
+            # append
+            cat README.md > /tmp/README.new
+            echo >> /tmp/README.new
+            cat /tmp/new_contribs.md >> /tmp/README.new
+            mv /tmp/README.new README.md
+          fi
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update contributors table"
+          branch: main
+          file_pattern: README.md
