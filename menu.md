@@ -11,6 +11,7 @@
 ## 🥗 Saladas
 - [salada do sertão](saladas/salada-do-sertao.md)
 - [salada de feijão verde](saladas/Salada-de-Feijão-Verde.md) 
+- [salada de polvo](saladas/salada-de-polvo.md)
 
 ---
 
