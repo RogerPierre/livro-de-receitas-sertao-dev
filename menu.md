@@ -29,6 +29,7 @@
 ## 🍰 Sobremesas
 - [doce de leite caseiro](sobremesas/doce-de-leite-caseiro.md)
 - [Pudim de Rapadura Sertanejo](sobremesas/Pudim-de-Rapadura-Sertanejo.md)
+- [doce de caju cristalizado](sobremesas/doce-de-caju-cristalizado.md)
 
 ---
 
