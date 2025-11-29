@@ -17,7 +17,6 @@
 ## 🍝 Massas
 - [Macarrão Sertanejo](massas/Macarrão-Sertanejo.md)
 - [Lasanha de carne de sol](massas/lasanha-de-carne-de-sol.md) 
-- [Spaghetti Rústico](./massas/nova-receita-spaghetti-rustico.md)
 
 ---
 
