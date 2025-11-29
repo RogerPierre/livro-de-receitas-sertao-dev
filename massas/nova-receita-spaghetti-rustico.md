@@ -17,5 +17,5 @@
 
 ---
 
-⬅️ [Voltar à Categoria](../README.md)
+⬅️ [Voltar à Categoria](.)
 🏠 [Voltar ao Menu Principal](../menu.md)
