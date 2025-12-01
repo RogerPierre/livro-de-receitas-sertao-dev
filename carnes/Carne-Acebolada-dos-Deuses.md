@@ -20,3 +20,6 @@ Uma carne suculenta, temperadinha e com cebolas douradas que deixam qualquer ref
 ### 🍋 Toque final
 - Suco de ½ limão
 - Uma pitada de páprica doce (opcional)
+
+- [Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
