@@ -25,3 +25,7 @@ Uma carne macia, douradinha e mergulhada em um molho saboroso que transforma qua
 - ½ xícara de vinho tinto (opcional)
 - 1 colher de sopa de shoyu
 - Uma pitada de páprica defumada
+
+
+⬅️ [Voltar à Categoria](.)  
+🏠 [Voltar ao Menu Principal](../menu.md)
