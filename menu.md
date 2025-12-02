@@ -7,7 +7,7 @@
 - [Carne de Sol](carnes/carneDeSol.md)
 - [Carne de panela nordestina](carnes/carne-de-panela-nordestina.md)
 - [Escondidinho de carne de sol](carnes/escondidinho-de-carneDeSol.md)
-- [Carne Assada ao Molho dos Deuses](carnes/Carne-Assada-ao-Molho-dosDeuses)
+- [Carne Assada ao Molho dos Deuses](carnes/Carne-Assada-ao-Molho-dos-Deuses)
 ---
 
 ## 🥗 Saladas
