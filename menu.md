@@ -26,7 +26,9 @@
 
 ## 🍲 Sopas
 - [caldo de macacheira](sopas/caldo-de-macacheira.md)
-- [caldo de macacheira com carne de sol ](sopas/Caldo-de-Macaxeira-com-Carne-de-Sol.md) 
+- [caldo de macacheira com carne de sol ](sopas/Caldo-de-Macaxeira-com-Carne-de-Sol.md)
+- [sopa de feijão](sopas/sopa-de-feijao.md)
+
 
 ---
 
