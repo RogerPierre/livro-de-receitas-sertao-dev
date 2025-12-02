@@ -3,9 +3,11 @@
 ---
 
 ## 🥩 Carnes
+- [Carne Aceboloda dos Deuses](carnes/Carne-Acebolada-dos-Deuses.md)
 - [Carne de Sol](carnes/carneDeSol.md)
 - [Carne de panela nordestina](carnes/carne-de-panela-nordestina.md)
 - [Escondidinho de carne de sol](carnes/escondidinho-de-carneDeSol.md)
+- [Carne Assada ao Molho dos Deuses](carnes/Carne-Assada-ao-Molho-dos-Deuses.md)
 ---
 
 ## 🥗 Saladas
@@ -24,7 +26,9 @@
 
 ## 🍲 Sopas
 - [caldo de macacheira](sopas/caldo-de-macacheira.md)
-- [caldo de macacheira com carne de sol ](sopas/Caldo-de-Macaxeira-com-Carne-de-Sol.md) 
+- [caldo de macacheira com carne de sol ](sopas/Caldo-de-Macaxeira-com-Carne-de-Sol.md)
+- [sopa de feijão](sopas/sopa-de-feijao.md)
+
 
 ---
 
